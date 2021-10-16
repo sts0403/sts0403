@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sts0403 // (Stanislav Aghamatov)
+- ⚙️ Currently i am a process automation engineer. // Kinda i create algorithms for real processes like candy making 
+- 🌱 I’m currently learning JS & Solidity // Whatching couple courses on Udemy and Linkedin learning
+- 💞️ I’m looking forward to become a Blockchain Developer // Actually it's not as easy as i thought
+- 📫 Here's my linkedin account: https://www.linkedin.com/in/s-aghamatov/ 
